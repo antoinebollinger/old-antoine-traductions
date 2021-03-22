@@ -6,4 +6,4 @@ Thanks to Le Site du Zéro !
 
 ## Preview
 
-Hosted on my [website](https://www.antoine-traductions.com/archives)
+Hosted on my [website](https://www.antoine-traductions.com/archives/v1)
