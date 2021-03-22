@@ -1,0 +1,38 @@
+﻿/* boutons réseaux sociaux */
+
+.compartilhar{
+/*border-top:1px solid grey;*/
+background-color:rgb(255,253,248);
+background-color:rgba(255,253,248,0.6);
+clear:both;
+/* margin: 12px 0 2px; */
+}
+
+.compartilhar ul{
+/*bottom: 3px;*/
+padding:3px 0 0 0;
+position: relative;
+}
+.compartilhar ul li{
+border-left: 1px solid gray;
+display:inline;
+margin-left:3px;
+padding:10px 0 0 4px;
+}
+.compartilhar ul li.first{
+border:0 none;
+margin-left:3px;
+padding:0;
+}
+.compartilhar ul li p.fontsize{
+color:#666;
+font-weight:bold;
+text-decoration:none;
+}
+.fb-root{margin-left:3px;}
+
+.fb-like {vertical-align:top;bottom:0;}
+
+.fb-send {vertical-align:top;bottom:0;}
+
+.g-plusone {vertical-align:top;bottom:0;}
